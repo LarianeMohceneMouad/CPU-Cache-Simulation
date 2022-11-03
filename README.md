@@ -1,4 +1,4 @@
 # CPU-Cache-Simulation
 CPU-Cache Simulation using python
 
-The code is commented
+All details can be found in the code comments
